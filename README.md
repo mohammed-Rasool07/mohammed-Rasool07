@@ -20,8 +20,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 
-
-
+[![](https://visitcount.itsvg.in/api?id=mohammed-Rasool07&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 <!--
 **mohammed-Rasool07/mohammed-Rasool07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
